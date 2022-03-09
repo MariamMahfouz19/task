@@ -1,0 +1,53 @@
+.head{
+    width: 100vw;
+    height: 8vh;
+    background-color: rgba(0, 0, 0, 0.781);
+    margin-top: -19px;
+    margin-left: -10px;
+
+}
+.h{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 200;
+    padding-top: 18px;
+    padding-left: 105px;
+}
+.section-1{
+    background-color: white;
+    
+
+}
+.title{
+    color: black;
+    margin-top: 80px;
+    display: flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.par{
+    color: black;
+    display: flex;
+    justify-content: center;
+    
+    margin-left: 304px;
+    margin-right: 113px;
+    
+}
+.botton{
+    display: flex;
+    justify-content: center;
+}
+.b1{
+    color: white;
+    background-color: green;
+    border-color: green;
+    margin-right: 10px;
+    
+}
+.b2{
+    color: red;
+    border-color: red;
+}
+
